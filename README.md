@@ -7,7 +7,6 @@
 
 <a href="https://github.com/JiYunee" target="_blank"><img src="https://img.shields.io/badge/JiYunee-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/JiYune"/></a>
 <a href="https://velog.io/@jiyunee/posts/" target="_blank"><img src="https://img.shields.io/badge/jiyunee-green?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@jiyunee/posts/"/></a>
-<a href="https://www.instagram.com/jyyy_ee/" target="_blank"><img src="https://img.shields.io/badge/jyyy_ee-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyyy_ee/"/></a>
 
 </br>
 
