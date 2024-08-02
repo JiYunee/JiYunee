@@ -6,7 +6,6 @@
  <br/>
 
 <a href="https://github.com/JiYunee" target="_blank"><img src="https://img.shields.io/badge/JiYunee-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/JiYune"/></a>
-<a href="https://velog.io/@jiyunee/posts/" target="_blank"><img src="https://img.shields.io/badge/jiyunee-green?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@jiyunee/posts/"/></a>
 
 </br>
 
